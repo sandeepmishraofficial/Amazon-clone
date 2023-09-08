@@ -215,7 +215,7 @@ ul a {
     height: 50px;
     width: 100px;
 }
-.foot-penal{
+.foot-penal4{
     background-color: #0f1111;
     color: white;
     height: 100px;
